@@ -1,0 +1,14 @@
+* {
+    font-family: "Courier New";
+    text-align: center;
+}
+
+li {
+    font-size: 18px;
+    line-height: 180%;
+    list-style-type: none;
+}
+
+div.container {
+    text-align: center;
+}
