@@ -4,7 +4,7 @@ This is the first project of "The Odin Project". (See [Project Recipes](https://
  
 The goal of the project was to demonstrate and apply the learned HTML knowledge with a basic website.
 
-## Checkout my live demo:
+## Check out my live demo:
 
 <a href="https://scuddi.github.io/odin-recipes/" target="_blank">Live Demo</a>
 
